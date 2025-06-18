@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-jose
+passlib[bcrypt]
+pydantic
+sqlalchemy
+python-dotenv
+asyncpg
+alembic
+greenlet
+email-validator
+debugpy 
